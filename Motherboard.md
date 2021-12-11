@@ -13,4 +13,4 @@ This is an example of what a motherboard looks like. There are a lot of function
 - How money Input/Output slots (Number of USB's, support for onboard sound cards, HDMI outputs, etc.)
 - Number of SATA connections (Used to for connection Hard Disk Drives or Solid State Drives)
 
-[Go back to home page](./README.md)
+[Go back to home page](./Components.md)
